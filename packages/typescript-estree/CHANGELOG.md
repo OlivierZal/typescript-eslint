@@ -1,3 +1,60 @@
+## 7.10.0 (2024-05-20)
+
+
+### 🩹 Fixes
+
+- **typescript-estree:** don't add in-project files to defaultProjectMatchedFiles
+
+
+### ❤️  Thank You
+
+- auvred
+- Emanuel Hoogeveen
+- jsfm01
+- Kirk Waiblinger
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
+## 7.9.0 (2024-05-13)
+
+
+### 🩹 Fixes
+
+- do not pass tsconfig canonical file name to typescript API to get program details for config file
+
+
+### ❤️  Thank You
+
+- Kirk Waiblinger
+- Sheetal Nandi
+- Vinccool96
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
+## 7.8.0 (2024-04-29)
+
+
+### 🚀 Features
+
+- **typescript-estree:** add maximumDefaultProjectFileMatchCount and wide allowDefaultProjectForFiles glob restrictions
+
+
+### ❤️  Thank You
+
+- auvred
+- Josh Goldberg ✨
+- jsfm01
+- Kim Sang Du
+- YeonJuan
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
+## 7.7.1 (2024-04-22)
+
+This was a version bump only for typescript-estree to align it with other projects, there were no code changes.
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
 ## 7.7.0 (2024-04-15)
 
 

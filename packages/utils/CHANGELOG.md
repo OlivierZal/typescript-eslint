@@ -1,3 +1,50 @@
+## 7.10.0 (2024-05-20)
+
+
+### 🩹 Fixes
+
+- **utils:** remove function form type from flat config `files` and `ignores`
+
+
+### ❤️  Thank You
+
+- auvred
+- Emanuel Hoogeveen
+- jsfm01
+- Kirk Waiblinger
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
+## 7.9.0 (2024-05-13)
+
+This was a version bump only for utils to align it with other projects, there were no code changes.
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
+## 7.8.0 (2024-04-29)
+
+
+### 🩹 Fixes
+
+- **utils:** export ESLint backwards-compat functions
+
+
+### ❤️  Thank You
+
+- auvred
+- Josh Goldberg ✨
+- jsfm01
+- Kim Sang Du
+- YeonJuan
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
+## 7.7.1 (2024-04-22)
+
+This was a version bump only for utils to align it with other projects, there were no code changes.
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
 ## 7.7.0 (2024-04-15)
 
 This was a version bump only for utils to align it with other projects, there were no code changes.
